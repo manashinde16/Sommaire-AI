@@ -254,8 +254,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  <p>If you found this project helpful, please consider giving it a ⭐️</p>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/kaushik-2318/sommaire?style=social)](https://github.com/kaushik-2318/sommaire)
-</div>
