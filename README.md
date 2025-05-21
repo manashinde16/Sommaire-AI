@@ -44,7 +44,8 @@
 </details>
 
 <div align="center">
-  <img src="public/sommaire.png" alt="Sommaire Screenshot" width="80%" />
+  ![Screenshot 2025-05-22 045331](https://github.com/user-attachments/assets/3069bee0-edba-405c-b590-4325e6371804)
+
 </div>
 
 ## ✨ Features
